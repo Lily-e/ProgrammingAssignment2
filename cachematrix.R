@@ -35,7 +35,3 @@ cacheSolve <- function(x, ...) {
   x$set_inv(m)
   m
 }
-
-
-
-
